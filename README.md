@@ -1,0 +1,1 @@
+# Rain-Prediction-and-Humidity-Temperature-forecasting-AI-model
